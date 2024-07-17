@@ -3,3 +3,4 @@ keras==2.15.0
 numpy
 flask
 pillow
+gunicorn
